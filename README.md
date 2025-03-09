@@ -1,3 +1,5 @@
+Async Data Fetching
+
 Real-World Example
 
 Imagine you are developing an e-commerce website like Amazon. When a user logs in, the system needs to fetch two important pieces of information:
