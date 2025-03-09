@@ -5,6 +5,7 @@ Real-World Example
 Imagine you are developing an e-commerce website like Amazon. When a user logs in, the system needs to fetch two important pieces of information:
 
 1.User Profile Information (Name, Email, Address)
+
 2.Order History (Past Purchases)
 
 However, these two pieces of data come from different sources (databases or APIs). The system must request both and wait for their responses before displaying them to the user.
